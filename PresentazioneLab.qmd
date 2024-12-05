@@ -1,0 +1,236 @@
+---
+title: "Intelligent vehicles, simulation and modeling laboratory"
+subtitle: "From Vehicle Dynamics, Optimal Control to Biological Intelligence for automatic and semi-autonomous driving
+"
+# author: 
+#   - "Mattia Piazza"
+#   - "Francesco Biral"
+author: "M. Piazza, S. Taddei, G. Corradini, M. Larcher, D. Stocco, F. Biral"
+date: today
+# date-format: long
+date-format: "D MMMM YYYY"
+resources: data
+execute: 
+  enabled: true
+slide-level: 2
+format:
+  revealjs: 
+    # Output file
+    output-file: index.html
+    # Table of Contents
+    # toc: true
+    # toc_float: true
+    # toc-depth: 1
+    # toc-location: body
+    # toc-title: "Contents"
+    # Generate a self contained file
+    self-contained: true
+    self-contained-math: true
+    # template-partials:
+    #   - title-slide.html
+    theme: [ custom.scss]
+    slideNumber: true
+    center: false 
+    transition: slide
+    # logo and footer: 
+    # logo: unitn.png
+    footer: "Autonomous Driving | University of Trento, Italy"
+    auto-play-media: true
+    width: 1920
+    height: 1080
+    html-math-method: mathjax
+    code-fold: true
+    # chalkboard: true
+---
+
+## Our team
+
+:::{.columns}
+::::{.column width="20%"}
+:::{.team-entry}
+![](./data/people/mauro_da_lio.jpg)
+
+:::{.name}
+Mauro Da Lio
+:::
+Full Professor
+:::
+::::
+
+::::{.column width="20%"}
+:::{.team-entry}
+![](./data/people/francesco_biral.jpg)
+
+:::{.name}
+Francesco Biral
+:::
+Associate Professor
+:::
+::::
+
+
+::::{.column width="20%"}
+:::{.team-entry}
+![](./data/people/enrico_bertolazzi.jpg)
+
+:::{.name}
+Enrico Bertolazzi
+:::
+Associate Professor
+:::
+::::
+
+::::{.column width="20%"}
+:::{.team-entry}
+![](./data/people/gastone_rosati.jpg)
+
+:::{.name}
+Gastone Pietro Rosati Papini
+:::
+Associate Professor
+:::
+::::
+
+::::{.column width="20%"}
+:::{.team-entry}
+![](./data/people/antonello_cherubini.jpg)
+
+:::{.name}
+Antonello Cherubini
+:::
+RTD-A
+:::
+:::: 
+
+:::
+
+<!-- create a line orizontal to separate -->
+
+:::{.columns}
+
+::::{.column width="14%"}
+:::{.team-entry}
+![](./data/people/mattia_piazza.jpeg)
+
+:::{.name}
+Mattia Piazza
+:::
+PhD Student
+:::
+::::
+
+::::{.column width="14%"}
+:::{.team-entry}
+![](./data/people/sebastiano_taddei.jpg)
+
+:::{.name}
+Sebastiano Taddei
+:::
+PhD Student
+:::
+::::
+
+::::{.column width="14%"}
+:::{.team-entry}
+![](./data/people/giacomo_corradini.jpg)
+
+:::{.name}
+Giacomo Corradini
+:::
+PhD Student
+:::
+::::
+
+::::{.column width="14%"}
+:::{.team-entry}
+![](./data/people/matteo_larcher.jpg)
+
+:::{.name}
+Matteo Larcher
+:::
+PostDoc
+:::
+::::
+
+::::{.column width="14%"}
+:::{.team-entry}
+![](./data/people/davide_stocco.jpg)
+
+:::{.name}
+Davide Stocco
+:::
+PostDoc
+:::
+::::
+
+::::{.column width="14%"}
+:::{.team-entry}
+![](./data/people/mattia_piccinini.jpg)
+
+:::{.name}
+Mattia Piccinini
+:::
+PostDoc
+:::
+::::
+
+::::{.column width="14%"}
+:::{.team-entry}
+![](./data/people/vishnuvardhan_shakthibala.jpg)
+
+:::{.name}
+Vishnuvardhan Shakthibala
+:::
+Research Fellow
+:::
+::::
+
+:::
+
+
+
+
+
+## SIMULATOR – Research activities
+
+- Teaching activities and FSAE.
+- Validation of vehicle models and subsystems (e.g., tires).
+- Autonomous and cooperative driving in urban and racing environments.
+- Development of realistic traffic models.
+- Analysis of driver behavior using biomedical data (e.g., workload and physiological analysis).
+
+
+
+## Timeline
+
+
+
+:::{.timeline}
+
+:::{.item style="width: 20%"}
+:::{.text}
+Content
+:::
+
+:::{.arrow style="background-color: var(--primary-color);"}
+2012 
+:::
+
+:::
+
+:::{.item style="width: 20%"}
+:::{.text}
+Content 2
+:::
+
+:::{.arrow style="background-color: var(--secondary-color);"}
+2013 
+:::
+
+:::
+
+
+::: 
+<!-- timeline end -->
+
+
