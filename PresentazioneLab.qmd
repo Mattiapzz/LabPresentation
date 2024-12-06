@@ -234,3 +234,111 @@ Content 2
 <!-- timeline end -->
 
 
+
+## 20+ years of expertise in the field
+
+### Knowledge on vehicle dynamics, Optimal Control and Intelligent Vehicles - 120M€ and 100 partners
+
+
+
+
+
+
+
+
+:::{.timeline}
+
+:::{.item style="width: 18%"}
+:::{.img-wrapper}
+![](./data/projects/Picture%201.png)
+:::
+:::{.arrow style="background-color: var(--primary-color);"}
+1996-2004
+:::
+:::{.text}
+- Minimum Lap Time motorcycles 
+- Handling & Maneuverability
+- MBD vehicles models
+:::
+:::
+
+:::{.item style="width: 18%"}
+:::{.text}
+- ADAS Curve warning & SafeSpeed Driver models
+- EU FP6 PREVENT (54M€ 60 partner)
+:::
+:::{.arrow style="background-color: var(--secondary-color);"}
+2002-2008
+:::
+:::{.img-wrapper}
+![](./data/projects/Picture%202.png)
+:::
+:::
+
+:::{.item style="width: 18%"}
+:::{.img-wrapper}
+![](./data/projects/Picture%203.png)
+:::
+:::{.arrow style="background-color: var(--primary-color);"}
+2008-2011
+:::
+:::{.text}
+- ARAS semi-active suspension modelling and control
+- EU FP7 SAFERIDER (5M€ 20 partner)
+:::
+:::
+
+:::{.item style="width: 18%"}
+:::{.text}
+- Integrated ADAS 
+- EU FP7 INTERACTIVE
+- Hybrid buses (28M€ 30 partner)
+:::
+:::{.arrow style="background-color: var(--secondary-color);"}
+2010-2013
+:::
+:::{.img-wrapper}
+![](./data/projects/Picture%204.png)
+![](./data/projects/Picture%205.png)
+:::
+:::
+
+:::{.item style="width: 18%"}
+:::{.img-wrapper}
+![](./data/projects/Picture%206.png)
+![](./data/projects/Picture%207.jpg)
+![](./data/projects/Picture%208.png)
+:::
+:::{.arrow style="background-color: var(--primary-color);"}
+2014-2017
+:::
+:::{.text}
+- Bio inspired codriver
+- Energy management for Hybrid drivelines
+- MLT racing cars
+- EU FP7 ADAPTIVE (24M€ 30 partner)
+- e2Call Industrial projects (DANA, CRF, Maserati, etc.)
+:::
+:::
+
+:::{.item style="width: 18%"}
+:::{.text}
+- Autonomous Driving, Artificial driver, 
+- MLT for racing
+- H2020 Dreams4Cars (5M€ 6 partner)
+- H2020 SAFESTRIP (5M€ 18 partner)
+- HORIZON EU SUNRISE (4M€ 16 partner)
+- Industrial Projects (Ferrari, CRF, Aprilia Racing, etc.)
+:::
+:::{.arrow style="background-color: var(--secondary-color);"} 
+2018-today
+:::
+:::{.img-wrapper}
+![](./data/projects/Picture%209.png)
+![](./data/projects/Picture%2010.png)
+![](./data/projects/Picture%2011.jpg)
+:::
+:::
+
+::: 
+<!-- timeline end -->
