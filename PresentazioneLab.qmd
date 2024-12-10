@@ -190,22 +190,6 @@ Researcher
 :::
 
 
-
-
-
-## SIMULATOR – Research activities
-
-- Teaching activities and FSAE.
-- Validation of vehicle models and subsystems (e.g., tires).
-- Autonomous and cooperative driving in urban and racing environments.
-- Development of realistic traffic models.
-- Analysis of driver behavior using biomedical data (e.g., workload and physiological analysis).
-
-
-
-
-
-
 ## 20+ years of expertise in the field
 
 ### Knowledge on vehicle dynamics, Optimal Control and Intelligent Vehicles - 120M€ and 100 partners
@@ -311,6 +295,14 @@ Researcher
 
 <!-- image of simulator setup -->
 ![](./data/projects/simsetup.png)
+
+## SIMULATOR – Research activities
+
+- Teaching activities and FSAE.
+- Validation of vehicle models and subsystems (e.g., tires).
+- Autonomous and cooperative driving in urban and racing environments.
+- Development of realistic traffic models.
+- Analysis of driver behavior using biomedical data (e.g., workload and physiological analysis).
 
 # RESEARCH ACTIVITY 
 <!-- {background-color="#222222" background-image="data/PictureRA.jpg" backgrounds-width="50%"} -->
