@@ -115,7 +115,7 @@
 }
 
 .columns .column .team-entry img {
-  width: 100%; /* Set width to 100% of the parent */
+  width: 85%; /* Set width to 100% of the parent */
   height: auto; /* Maintain aspect ratio */
   object-fit: cover; /* Ensure the image covers the area */
   border-radius: 50%; /* Make the image circular */
@@ -131,9 +131,12 @@
 .columns .column .team-entry .name {
   width: 100%;
   color: #0f6e91;
-  // font-size: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   text-align: center; /* Center align text */
+  height: 2.8em; /* Set height to accommodate two lines */
+  line-height: 1.0em; /* Set line height */
+  overflow: hidden; /* Hide overflow text */
+  // word-wrap: break-word; /* Break long words */
 }
 
 .columns .column .team-entry p {
@@ -271,6 +274,12 @@
 //   font-size: 10px;
 // }
 
+.reveal .slides {
+  text-align: center;
+  align-items: center;
+  // vertical alignment
+  vertical-align: middle;
+}
 
 
 .reveal .slides .timeline{
