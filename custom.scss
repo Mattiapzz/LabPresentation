@@ -18,6 +18,8 @@
 :root{
   --primary-color: #0f6e91;
   --secondary-color: #FF9D3D;
+  --primary-color_light: #0f6e912c;
+  --secondary-color_light: #ff9e3d23;
 }
 
 
@@ -304,6 +306,7 @@
   justify-content: space-between;
   position: relative;
   font-size: smaller;
+  // background-color: var(--primary-color_light);
 }
 
 .reveal .slides .timeline .item .text{

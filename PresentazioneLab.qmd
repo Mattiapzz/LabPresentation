@@ -196,7 +196,7 @@ Researcher
 
 :::{.timeline}
 
-:::{.item style="width: 18%"}
+:::{.item style="width: 18%; background-color: var(--secondary-color_light);"}
 :::{.img-wrapper}
 ![](./data/projects/Picture%201.png)
 :::
@@ -210,7 +210,7 @@ Researcher
 :::
 :::
 
-:::{.item style="width: 18%"}
+:::{.item style="width: 18%; background-color: var(--primary-color_light);"}
 :::{.text}
 - ADAS Curve warning & SafeSpeed Driver models
 - EU FP6 PREVENT (54M€ 60 partner)
@@ -223,7 +223,7 @@ Researcher
 :::
 :::
 
-:::{.item style="width: 18%"}
+:::{.item style="width: 18%; background-color: var(--secondary-color_light);"}
 :::{.img-wrapper}
 ![](./data/projects/Picture%203.png)
 :::
@@ -236,7 +236,7 @@ Researcher
 :::
 :::
 
-:::{.item style="width: 18%"}
+:::{.item style="width: 18%; background-color: var(--primary-color_light);"}
 :::{.text}
 - Integrated ADAS 
 - EU FP7 INTERACTIVE
@@ -251,7 +251,7 @@ Researcher
 :::
 :::
 
-:::{.item style="width: 18%"}
+:::{.item style="width: 18%; background-color: var(--secondary-color_light);"}
 :::{.img-wrapper}
 ![](./data/projects/Picture%206.png)
 ![](./data/projects/Picture%207.jpg)
@@ -269,7 +269,7 @@ Researcher
 :::
 :::
 
-:::{.item style="width: 18%"}
+:::{.item style="width: 18%; background-color: var(--primary-color_light);"}
 :::{.text}
 - Autonomous Driving, Artificial driver, 
 - MLT for racing
