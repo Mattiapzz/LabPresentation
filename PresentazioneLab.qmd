@@ -362,7 +362,7 @@ Researcher
 {{< video https://www.youtube.com/embed/HADLEr5eTj0?si=lm8HhUpFJXM8KjfI&amp;start=25 width="100%" height="85%" autoplay="true" loop="true" muted="true">}}
 
 ## Vehicle max performance Learning Vehicle Dynamics – adaptations
-{{< video https://www.youtube.com/embed/xQ_T96IjGP8?si=w0eF2kz1KAq1Rk2t&amp;start=61 width="100%" height="85%" autoplay="true" loop="true" muted="true">}}
+{{< video https://www.youtube.com/embed/xQ_T96IjGP8?si=w0eF2kz1KAq1Rk2t&amp;start=95 width="100%" height="85%" autoplay="true" loop="true" muted="true">}}
 
 ## Autonomous parking
 {{< video https://www.youtube.com/embed/U2mRTzmFj9w?si=iSzRqT9rY2LIslgA&amp;start=29 width="100%" height="85%" autoplay="true" loop="true" muted="true" justify-content="center" align-items="center">}}
