@@ -47,7 +47,7 @@ format:
 ## Our team
 
 :::{.columns}
-::::{.column width="20%"}
+::::{.column width="25%"}
 :::{.team-entry}
 ![](./data/people/mauro_da_lio.jpg)
 
@@ -58,19 +58,19 @@ Full Professor
 :::
 ::::
 
-::::{.column width="20%"}
+::::{.column width="25%"}
 :::{.team-entry}
 ![](./data/people/francesco_biral.jpg)
 
 :::{.name}
 Francesco Biral
 :::
-Associate Professor
+Full Professor
 :::
 ::::
 
 
-::::{.column width="20%"}
+::::{.column width="25%"}
 :::{.team-entry}
 ![](./data/people/enrico_bertolazzi.jpg)
 
@@ -81,7 +81,7 @@ Associate Professor
 :::
 ::::
 
-::::{.column width="20%"}
+::::{.column width="25%"}
 :::{.team-entry}
 ![](./data/people/gastone_rosati.jpg)
 
@@ -92,48 +92,37 @@ Associate Professor
 :::
 ::::
 
-::::{.column width="20%"}
-:::{.team-entry}
-![](./data/people/antonello_cherubini.jpg)
-
-:::{.name}
-Antonello Cherubini
-:::
-RTD-A
-:::
-:::: 
-
 :::
 
 <!-- create a line orizontal to separate -->
 
 :::{.columns}
 
-::::{.column width="14%"}
+::::{.column width="16.6%"}
 :::{.team-entry}
 ![](./data/people/mattia_piazza.jpeg)
 
 :::{.name}
 Mattia Piazza
 :::
-PhD Student
+PhD Candidate
 :::
 ::::
 
-::::{.column width="14%"}
+::::{.column width="16.6%"}
 :::{.team-entry}
 ![](./data/people/sebastiano_taddei.jpg)
 
 :::{.name}
 Sebastiano Taddei
 :::
-PhD Student
+Research Fellow
 :::
 ::::
 
-::::{.column width="14%"}
+::::{.column width="16.6%"}
 :::{.team-entry}
-![](./data/people/giacomo_corradini.jpg)
+![](./data/people/giacomo_corradini.jpeg)
 
 :::{.name}
 Giacomo Corradini
@@ -142,18 +131,18 @@ PhD Student
 :::
 ::::
 
-::::{.column width="14%"}
+::::{.column width="16.6%"}
 :::{.team-entry}
-![](./data/people/matteo_larcher.jpg)
+![](./data/people/filippo_faccini.jpeg)
 
 :::{.name}
-Matteo Larcher
+Filippo Faccini
 :::
-PostDoc
+PhD Student
 :::
 ::::
 
-::::{.column width="14%"}
+::::{.column width="16.6%"}
 :::{.team-entry}
 ![](./data/people/davide_stocco.jpg)
 
@@ -164,27 +153,18 @@ PostDoc
 :::
 ::::
 
-::::{.column width="14%"}
+::::{.column width="16.6%"}
 :::{.team-entry}
-![](./data/people/mattia_piccinini.jpg)
+![](./data/people/gioele-defrancesco.jpeg)
 
 :::{.name}
-Mattia Piccinini
+Gioele Defrancesco
 :::
-PostDoc
+PhD Student
 :::
 ::::
 
-::::{.column width="14%"}
-:::{.team-entry}
-![](./data/people/vishnuvardhan_shakthibala.jpg)
 
-:::{.name}
-Vishnuvardhan Shakthibala
-:::
-Researcher
-:::
-::::
 
 :::
 
