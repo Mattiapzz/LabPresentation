@@ -1,7 +1,6 @@
 ---
 title: "Intelligent vehicles, simulation and modeling laboratory"
-subtitle: "From Vehicle Dynamics, Optimal Control to Biological Intelligence for automatic and semi-autonomous driving
-"
+subtitle: "From Vehicle Dynamics, Optimal Control to Biological Intelligence for automatic and semi-autonomous driving"
 # author: 
 #   - "Mattia Piazza"
 #   - "Francesco Biral"
