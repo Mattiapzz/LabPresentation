@@ -4,7 +4,7 @@ subtitle: "From Vehicle Dynamics, Optimal Control to Biological Intelligence for
 # author: 
 #   - "Mattia Piazza"
 #   - "Francesco Biral"
-author: "M. Piazza, S. Taddei, G. Corradini, M. Larcher, D. Stocco, F. Biral"
+author: "M. Piazza, S. Taddei, G. Corradini, F. Faccini, D. Stocco, G. Defrancesco, E. Bertolazzi, G. Rosati Papini, M. Da Lio, F. Biral"
 date: today
 # date-format: long
 date-format: "D MMMM YYYY"
@@ -47,18 +47,7 @@ format:
 ## Our team
 
 :::{.columns}
-::::{.column width="25%"}
-:::{.team-entry}
-![](./data/people/mauro_da_lio.jpg)
-
-:::{.name}
-Mauro Da Lio
-:::
-Full Professor
-:::
-::::
-
-::::{.column width="25%"}
+::::{.column width="17.5%"}
 :::{.team-entry}
 ![](./data/people/francesco_biral.jpg)
 
@@ -69,8 +58,12 @@ Full Professor
 :::
 ::::
 
+::::{.column width="6.0%"}
 
-::::{.column width="25%"}
+::::
+
+
+::::{.column width="17.5%"}
 :::{.team-entry}
 ![](./data/people/enrico_bertolazzi.jpg)
 
@@ -81,7 +74,11 @@ Associate Professor
 :::
 ::::
 
-::::{.column width="25%"}
+::::{.column width="6.0%"}
+
+::::
+
+::::{.column width="17.5%"}
 :::{.team-entry}
 ![](./data/people/gastone_rosati.jpg)
 
@@ -92,13 +89,28 @@ Associate Professor
 :::
 ::::
 
+::::{.column width="6.0%"}
+
+::::
+
+::::{.column width="17.5%"}
+:::{.team-entry}
+![](./data/people/mauro_da_lio.jpg)
+
+:::{.name}
+Mauro Da Lio
+:::
+Full Professor
+:::
+::::
+
 :::
 
 <!-- create a line orizontal to separate -->
 
 :::{.columns}
 
-::::{.column width="16.6%"}
+::::{.column width="15%"}
 :::{.team-entry}
 ![](./data/people/mattia_piazza.jpeg)
 
@@ -109,18 +121,7 @@ PhD Candidate
 :::
 ::::
 
-::::{.column width="16.6%"}
-:::{.team-entry}
-![](./data/people/sebastiano_taddei.jpg)
-
-:::{.name}
-Sebastiano Taddei
-:::
-Research Fellow
-:::
-::::
-
-::::{.column width="16.6%"}
+::::{.column width="15%"}
 :::{.team-entry}
 ![](./data/people/giacomo_corradini.jpeg)
 
@@ -131,7 +132,7 @@ PhD Student
 :::
 ::::
 
-::::{.column width="16.6%"}
+::::{.column width="15%"}
 :::{.team-entry}
 ![](./data/people/filippo_faccini.jpeg)
 
@@ -142,18 +143,7 @@ PhD Student
 :::
 ::::
 
-::::{.column width="16.6%"}
-:::{.team-entry}
-![](./data/people/davide_stocco.jpg)
-
-:::{.name}
-Davide Stocco
-:::
-PostDoc
-:::
-::::
-
-::::{.column width="16.6%"}
+::::{.column width="15%"}
 :::{.team-entry}
 ![](./data/people/gioele-defrancesco.jpeg)
 
@@ -164,7 +154,27 @@ PhD Student
 :::
 ::::
 
+::::{.column width="15%"}
+:::{.team-entry}
+![](./data/people/davide_stocco.jpg)
 
+:::{.name}
+Davide Stocco
+:::
+PostDoc
+:::
+::::
+
+::::{.column width="15%"}
+:::{.team-entry}
+![](./data/people/sebastiano_taddei.jpg)
+
+:::{.name}
+Sebastiano Taddei
+:::
+PostDoc
+:::
+::::
 
 :::
 

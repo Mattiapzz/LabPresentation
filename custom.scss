@@ -113,7 +113,7 @@
   flex-direction: column;
   align-items: center; /* Center align items horizontally */
   justify-content: flex-start;
-  margin-bottom: 20px;
+  margin-bottom: 1px;
 }
 
 .columns .column .team-entry img {
@@ -136,7 +136,7 @@
   margin-bottom: 5px;
   text-align: center; /* Center align text */
   height: 2.8em; /* Set height to accommodate two lines */
-  line-height: 1.0em; /* Set line height */
+  line-height: 0.80em; /* Set line height */
   overflow: hidden; /* Hide overflow text */
   // word-wrap: break-word; /* Break long words */
 }
